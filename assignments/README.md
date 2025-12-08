@@ -42,3 +42,26 @@ The bank holidays that are unique to Northern Ireland, 2024-2028, are:
 2028-03-17 St Patrick’s Day
 2028-07-12 Battle of the Boyne (Orangemen’s Day)
 ```
+
+----------------------------------------------------------------------
+## Assignment 03: assignment03-pie.ipynb
+This note book creates a pie chart of  email domains in the csv file at the url:
+https://drive.google.com/uc?id=1AWPf-pJodJKeHsARQK_RHiNsE8fjPCVK&export=download
+
+----------------------------------------------------------------------
+## Assignment 05: assignment05-population.ipynb
+This notebook analyses some differences between the sexes by age in Ireland, based on 2022 Census data. 
+it:
+- Calculates the weighted mean age by sex,
+- Analyses the difference between the sexes by age
+- Calculates the population difference between the sexes in a user-specified age group.
+- Calculates which region in Ireland has the biggest population difference between the sexes in that age group.
+
+----------------------------------------------------------------------
+## Assignment 06: assignment_6_Weather.ipynb
+This notebook analyses weather data from Knock Airport:
+https://cli.fusio.net/cli/climate_data/webdata/hly4935.csv
+It plots:
+- The hourly temperature
+- The mean temperature each day
+- The mean temperature for each month
