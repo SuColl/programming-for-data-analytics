@@ -65,3 +65,7 @@ It plots:
 - The hourly temperature
 - The mean temperature each day
 - The mean temperature for each month
+- The hourly windspeed readings
+- The 24-hour rolling mean windspeed
+- The maximum daily windspeed
+- The monthly mean of the maximum daily windspeeds
